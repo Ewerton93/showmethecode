@@ -1,0 +1,19 @@
+version: '3'
+networks:
+  taxajuros:
+      name: taxajuros
+services:
+  taxajuros:
+    image: taxajuros.api:v1
+    ports: 
+      - 5000:80    
+    networks: 
+      - taxajuros  
+  calculojuros:
+    image: calculojuros.api:v3
+    ports: 
+      - 5001:80
+    networks:
+      - taxajuros
+    depends_on:
+      - taxajuros
