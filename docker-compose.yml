@@ -1,16 +1,16 @@
-version: '3'
+version: '3.1'
 networks:
   taxajuros:
       name: taxajuros
 services:
   taxajuros:
-    image: taxajuros.api:v1
+    image: ensilva/ensilvataxajuros:latest
     ports: 
       - 80:80    
     networks: 
       - taxajuros  
   calculojuros:
-    image: calculojuros.api:v2
+    image: ensilva/ensilvacalculojuros:latest
     ports: 
       - 5001:80
     networks:
