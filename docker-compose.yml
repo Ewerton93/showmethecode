@@ -4,13 +4,13 @@ networks:
       name: taxajuros
 services:
   taxajuros:
-    image: taxajuros:lastest
+    image: taxajuros.api:v1
     ports: 
-      - 5000:80    
+      - 80:80    
     networks: 
       - taxajuros  
   calculojuros:
-    image: calculojuros:lastest
+    image: calculojuros.api:v2
     ports: 
       - 5001:80
     networks:
