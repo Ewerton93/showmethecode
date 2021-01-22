@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+7UaLxi8w7ADiIRM4ZaveZ9w5ansKBdF4/XSwe/JypFWpLW9DaBQVt17xeyfXtl03iE3yD2wEmqTMT7Zr1pxtQ==",
+  "dgSpecHash": "kDlLIuJnC/k+CcYs1TVuIdCRr+WXXKhRo0v465OGdpRVZaML6vi4VDNTqfis1rKwnteqQP21YNQeDQzh39KwMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
+  "projectFilePath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ewert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ewert\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",

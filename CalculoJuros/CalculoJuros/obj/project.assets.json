@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
+      "projectUniqueName": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
       "projectName": "CalculoJuros",
-      "projectPath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
+      "projectPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
       "packagesPath": "C:\\Users\\ewert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\obj\\",
+      "outputPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -12,7 +12,7 @@ namespace CalculoJuros.Servico
             try
             {
                 HttpClient client = new HttpClient();
-                client.BaseAddress = new Uri("http://localhost:5000/");
+                client.BaseAddress = new Uri("http://taxajuros:80");
                 HttpResponseMessage taxa = null;
                 try
                 {

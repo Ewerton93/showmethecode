@@ -4307,11 +4307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros.Teste.Unitario\\CalculoJuros.Teste.Unitario.csproj",
+      "projectUniqueName": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros.Teste.Unitario\\CalculoJuros.Teste.Unitario.csproj",
       "projectName": "CalculoJuros.Teste.Unitario",
-      "projectPath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros.Teste.Unitario\\CalculoJuros.Teste.Unitario.csproj",
+      "projectPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros.Teste.Unitario\\CalculoJuros.Teste.Unitario.csproj",
       "packagesPath": "C:\\Users\\ewert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros.Teste.Unitario\\obj\\",
+      "outputPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros.Teste.Unitario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4333,8 +4333,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj": {
-              "projectPath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj"
+            "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj": {
+              "projectPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj"
             }
           }
         }

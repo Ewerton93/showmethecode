@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++b0idQvDsTlJcjiNYsWzGtRnWu0zs/Cuc/3r7puE5A2Hk/6TWd66tEf4CW/+tOY0VfR4RztLY0WV9mp9BQtzw==",
+  "dgSpecHash": "mNxx5nZRKlsRYsyKlSonwc7XoW+b9kGzRUgPd0abLn20NRDDpS4GFs/jZRh1O95hdNxgFdOa+H55nNArrcuwjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ewert\\source\\repos\\CalculoJuros\\CalculoJuros.Teste.Integracao\\CalculoJuros.Teste.Integracao.csproj",
+  "projectFilePath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\CalculoJuros\\CalculoJuros.Teste.Integracao\\CalculoJuros.Teste.Integracao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ewert\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ewert\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
