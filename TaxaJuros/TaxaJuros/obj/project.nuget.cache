@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05XyY2rYg5xHLYlGRI5JtYicUU5pcMc3ogGImaqta4/A/HHpFyLqkwEYtLbsYEG4cqbC81kEghCAHe45H1jAgQ==",
+  "dgSpecHash": "ealqJyBQhi30+JNycVbK6QQa/fBMvLzTwi8lRqHZK5sy2FUvAzZnlNjyWfIyr9BZfoGwv0nIf6rmY1ElS7zphg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
+  "projectFilePath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ewert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ewert\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

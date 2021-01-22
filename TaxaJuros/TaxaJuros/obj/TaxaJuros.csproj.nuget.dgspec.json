@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj": {}
+    "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj": {
+    "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
+        "projectUniqueName": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
         "projectName": "TaxaJuros",
-        "projectPath": "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
+        "projectPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\TaxaJuros.csproj",
         "packagesPath": "C:\\Users\\ewert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ewert\\source\\repos\\TaxaJuros\\TaxaJuros\\obj\\",
+        "outputPath": "C:\\Users\\ewert\\Source\\Repos\\Ewerton93\\showmethecode\\TaxaJuros\\TaxaJuros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

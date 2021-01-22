@@ -2,10 +2,10 @@ FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
 WORKDIR /app
 
 COPY *.sln .
-COPY ./TaxaJuros/*.csproj ./Api/
+COPY ./TaxaJuros/*.csproj ./TaxaJuros/
 RUN dotnet restore
 
-COPY Api/. ./api
+COPY TaxaJuros/. ./api
 WORKDIR /app/api
 RUN dotnet publish -o published_api -v q
 

@@ -2,12 +2,12 @@ FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
 WORKDIR /app
 
 COPY *.sln .
-COPY ./CalculoJuros/*.csproj ./Api/
-COPY ./CalculoJuros.Teste.Integracao/*.csproj ./Api.Tests/
-COPY ./CalculoJuros.Teste.Unitario/*.csproj ./Api.Tests/
+COPY ./CalculoJuros/*.csproj ./CalculoJuros/
+COPY ./CalculoJuros.Teste.Integracao/*.csproj ./CalculoJuros.Teste.Integracao/
+COPY ./CalculoJuros.Teste.Unitario/*.csproj ./CalculoJuros.Teste.Unitario/
 RUN dotnet restore
 
-COPY Api/. ./api
+COPY CalculoJuros/. ./api
 WORKDIR /app/api
 RUN dotnet publish -o published_api -v q
 
